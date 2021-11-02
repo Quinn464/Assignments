@@ -1,0 +1,59 @@
+/*1 */ 
+body { background-color: grey;
+
+}
+.nav{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 250;
+    background color: solid black;
+    border: 3px solid yellow;
+}
+
+
+p {
+    margin: 20px;
+}
+h1{
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+/*2 */
+.css-classes {
+background-color: darkgray;
+}
+.background2 {
+    background-image: url(../../Assets/upfeathers.png);
+}
+/*3 */
+.css-classes h1 {
+font-size: 19px;
+}
+/*4 */
+.css-classes p {
+font-size: 16px;
+}
+/*5 */
+.css-classes li {
+color: darkslateblue;
+}
+/* ID Example */ 
+#number-one{
+    font-size: 13px;
+}
+
+/* class */
+.first-class{
+    color: purple;
+}
+
+#margin-settings {
+    height: 40px;
+    background-color: white;
+    border: 5px solid red;
+    margin: 0px 0px 0px 0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
